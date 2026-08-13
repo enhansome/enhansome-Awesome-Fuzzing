@@ -1,0 +1,177 @@
+{
+  "items": [
+    {
+      "description": "Courses/Training videos on fuzzing",
+      "items": [],
+      "title": "Courses"
+    },
+    {
+      "description": "NYU Poly ( see videos for more ) - Made available freely by Dan Guido.\nSamclass.info ( check projects section and chapter 17 ) - by Sam.\nModern Binary Exploitation ( RPISEC ) - Chapter 15 - by RPISEC.\nOffensive Computer Security - Week 6 - by W. Owen Redwood and Prof. Xiuwen Liu.",
+      "items": [],
+      "title": "Free"
+    },
+    {
+      "description": "Offensive Security, Cracking The Perimeter ( CTP ) and Advanced Windows Exploitation ( AWE )\nSANS 660/760 Advanced Exploit Development for Penetration Testers\nExodus Intelligence - Vulnerability development master class\nAda Logics - Applied Source Code Fuzzing\nFuzzingLabs Academy (C/C++, Rust, Go fuzzing)\nSignal Labs - Vulnerability Research & Fuzzing",
+      "items": [],
+      "title": "Paid"
+    },
+    {
+      "description": "Videos talking about fuzzing techniques, tools and best practices",
+      "items": [],
+      "title": "Videos"
+    },
+    {
+      "description": "Fuzzing 101 (Part 1) - by Mike Zusman.\nFuzzing 101 (Part 2) - by Mike Zusman.\nFuzzing 101 (2009) - by Mike Zusman.\nFuzzing - Software Security Course on Coursera - by University of Maryland.",
+      "items": [],
+      "title": "NYU Poly Course videos"
+    },
+    {
+      "description": "Attacking Antivirus Software's Kernel Driver\nFuzzing the Windows Kernel - OffensiveCon 2020\nYoutube Playlist of various fuzzing talks and presentations - Lots of good content in these videos.\nBrowser bug hunting - Memoirs of a last man standing - by Atte Kettunen\nCoverage-based Greybox Fuzzing as Markov Chain\nDerbyCon 2016: Fuzzing basics...or how to break software\nFuzz Theory - by Brandon Falk",
+      "items": [],
+      "title": "Conference talks and tutorials"
+    },
+    {
+      "description": "Tutorials and blogs which explain methodology, techniques and best practices of fuzzing\nARMored CoreSight: Towards Efficient Binary-only Fuzzing\nFuzzing Microsoft's RDP Client using Virtual Channels: Overview & Methodology\nFuzzing Closed Source PDF Viewers\nFuzzing Image Parsing in Windows, Part One: Color Profiles\nFuzzing Image Parsing in Windows, Part Two: Uninitialized Memory\nFuzzing Image Parsing in Windows, Part Three: RAW and HEIF\nFuzzing the Office Ecosystem\nEffective File Format Fuzzing - Mateusz “j00ru” Jurczyk @ Black Hat Europe 2016, London\nA year of Windows kernel font fuzzing Part-1 the results - Amazing article by Google's Project Zero, describing what it takes to do fuzzing and create fuzzers.\nA year of Windows kernel font fuzzing Part-2 the techniques - Amazing article by Google's Project Zero, describing what it takes to do fuzzing and create fuzzers.\nInteresting bugs and resources at fuzzing project - by fuzzing-project.org.\nFuzzing workflows; a fuzz job from start to finish - by @BrandonPrry.\nA gentle introduction to fuzzing C++ code with AFL and libFuzzer - by Jeff Trull.\nA 15 minute introduction to fuzzing - by folks at MWR Security.\nFuzzing Blogs and Books - by fuzzing.info\nRoot Cause Analysis of the Crash during Fuzzing - by Corelan Team.\nRoot cause analysis of integer flow - by Corelan Team.\nCreating custom peach fuzzer publishers - by Open Security Research\n7 Things to Consider Before Fuzzing a Large Open Source Project - by Emily Ratliff.",
+      "items": [],
+      "title": "Tutorials and Blogs"
+    },
+    {
+      "description": "From fuzzing to 0-day - by Harold Rodriguez(@superkojiman).\nFrom crash to exploit - by Corelan Team.",
+      "items": [],
+      "title": "From Fuzzing to Exploit:"
+    },
+    {
+      "description": "Peach Fuzzer Introductionh\nFuzzing with Peach Part 1 - by Jason Kratzer of corelan team\nFuzzing with Peach Part 2 - by Jason Kratzer of corelan team.\nAuto generation of Peach pit files/fuzzers - by Frédéric Guihéry, Georges Bossert.",
+      "items": [],
+      "title": "Peach Fuzzer related tutorials"
+    },
+    {
+      "description": "Creating a fuzzing harness for FoxitReader 9.7 ConvertToPDF Function\n50 CVEs in 50 Days: Fuzzing Adobe Reader\nFuzzing sockets, part 1: FTP servers\nFuzzing software: common challenges and potential solutions (Part 1)\nFuzzing software: advanced tricks (Part 2)\nFuzzing workflows; a fuzz job from start to finish - by @BrandonPrry.\nFuzzing capstone using AFL persistent mode - by @toasted_flakes\nRAM disks and saving your SSD from AFL Fuzzing\nBug Hunting with American Fuzzy Lop\nAdvanced usage of American Fuzzy Lop with real world examples\nSegfaulting Python with afl-fuzz\nFuzzing With AFL-Fuzz, a Practical Example ( AFL vs Binutils )\nThe Importance of Fuzzing...Emulators?\nHow Heartbleed could've been found\nFilesystem Fuzzing with American Fuzzy lop\nFuzzing Perl/XS modules with AFL\nHow to fuzz a server with American Fuzzy Lop - by Jonathan Foote\nFuzzing with AFL Workshop - a set of challenges on real vulnerabilities\nFuzzing 101 - PHDays",
+      "items": [],
+      "title": "AFL Fuzzer related tutorials"
+    },
+    {
+      "description": "libFuzzer Tutorial\nHunting for bugs in VirtualBox (First Take)\nlibFuzzer Workshop: \"Modern fuzzing of C/C++ Projects\"",
+      "items": [],
+      "title": "libFuzzer Fuzzer related tutorials"
+    },
+    {
+      "description": "Fuzzing ImageIO\nDouble-Free RCE in VLC. A honggfuzz how-to",
+      "items": [],
+      "title": "honggfuzz related tutorials"
+    },
+    {
+      "description": "Fuzzing with Spike to find overflows\nFuzzing with Spike - by samclass.info",
+      "items": [],
+      "title": "Spike Fuzzer related tutorials"
+    },
+    {
+      "description": "Fuzzing with FOE - by Samclass.info",
+      "items": [],
+      "title": "FOE Fuzzer related tutorials"
+    },
+    {
+      "description": "Z3 - A guide - Getting Started with Z3: A Guide",
+      "items": [],
+      "title": "SMT/SAT solver tutorials"
+    },
+    {
+      "description": "Building A Feedback Fuzzer - by @fady_othman",
+      "items": [],
+      "title": "Building a Feedback Fuzzer (for educational purposes)"
+    },
+    {
+      "description": "Tools which helps in fuzzing applications",
+      "items": [],
+      "title": "Tools"
+    },
+    {
+      "description": "Fuzzers which help fuzzing in cloud environments.\nCloudfuzzer - Cloud fuzzing framework which makes it possible to easily run automated fuzz-testing in cloud environments.\nClusterFuzzer - ClusterFuzzer, scalable open source fuzzing infrastructure. It is used by Google for fuzzing Chrome Browser.\nFuzzit - Fuzzit, Continuous fuzzing as a service platform. Free for open source. used by various open-source projects (systemd, radare2) and close-source projects. To join oss program drop a line at oss@fuzzit.dev",
+      "items": [],
+      "title": "Cloud Fuzzers"
+    },
+    {
+      "description": "Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,\nJackalope\nRehepapp\nNewer version of Rehepapp\npe-afl combines static binary instrumentation on PE binary and WinAFL\nMiniFuzz - Wayback Machine link - Basic file format fuzzing tool by Microsoft. (No longer available on Microsoft website).\nBFF from CERT - Basic Fuzzing Framework for file formats.\nAFL Fuzzer (Linux only) - American Fuzzy Lop Fuzzer by Michal Zalewski aka lcamtuf\nWin AFL - A fork of AFL for fuzzing Windows binaries\nShellphish Fuzzer - A Python interface to AFL, allowing for easy injection of testcases and other functionality.\nTriforceAFL - A modified version of AFL that supports fuzzing for applications whose source code not available.\nAFLGo - Directed Greybox Fuzzing with AFL, to fuzz targeted locations of a program.\nPeach Fuzzer - Framework which helps to create custom dumb and smart fuzzers.\nMozPeach - A fork of peach 2.7 by Mozilla Security.\nFailure Observation Engine (FOE) - mutational file-based fuzz testing tool for windows applications.\nrmadair - mutation based file fuzzer that uses PyDBG to monitor for signals of interest.\nhonggfuzz - A general-purpose, easy-to-use fuzzer with interesting analysis options. Supports feedback-driven fuzzing based on code coverage. Supports GNU/Linux, FreeBSD, Mac OSX and Android.\nzzuf - A transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input.\nradamsa - A general purpose fuzzer and test case generator.\nbinspector - A binary format analysis and fuzzing tool\ngrammarinator - Fuzzing tool for file formats based on ANTLR v4 grammars (lots of grammars already available from the ANTLR project).\nSloth - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation.\nManuFuzzer - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.",
+      "items": [],
+      "title": "File Format Fuzzers"
+    },
+    {
+      "description": "Fuzzers which helps in fuzzing applications which use network based protocals like HTTP, SSH, SMTP etc.,\nPeach Fuzzer - Framework which helps to create custom dumb and smart fuzzers.\nSulley - A fuzzer development and fuzz testing framework consisting of multiple extensible components by Pedram Amini.\nboofuzz - A fork and successor of Sulley framework.\nSpike - A fuzzer development framework like sulley, a predecessor of sulley.\nMetasploit Framework - A framework which contains some fuzzing capabilities via Auxiliary modules.\nNightmare - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.\nrage_fuzzer - A dumb protocol-unaware packet fuzzer/replayer.\nFuzzotron - A simple network fuzzer supporting TCP, UDP and multithreading.\nMutiny - The Mutiny Fuzzing Framework is a network fuzzer that operates by replaying PCAPs through a mutational fuzzer.\nFuzzing For Worms - A fuzzing framework for network servers.\nAFL (w/ networking patch) - An unofficial american fuzzy lop capable of network fuzzing.\nAFLNet - A Greybox Fuzzer for Network Protocols (an extention of AFL).\nPulsar - Protocol Learning, Simulation and Stateful Fuzzer.",
+      "items": [],
+      "title": "Network Protocol Fuzzers"
+    },
+    {
+      "description": "BFuzz - An input based, browser fuzzing framework. Fuzzinator - Fuzzinator Random Testing Framework Grizzly - A cross-platform browser fuzzing framework",
+      "items": [],
+      "title": "Browser Fuzzing"
+    },
+    {
+      "description": "Other notable fuzzers like Kernel Fuzzers, general purpose fuzzer etc.,\nChoronzon - An evolutionary knowledge-based fuzzer\nQuickFuzz - A tool written in Haskell designed for testing un-expected inputs of common file formats on third-party software, taking advantage of off-the-shelf, well known fuzzers.\ngramfuzz - A grammar-based fuzzer that lets one define complex grammars to model text and binary data formats\nKernelFuzzer - Cross Platform Kernel Fuzzer Framework.\nhonggfuzz - A general-purpose, easy-to-use fuzzer with interesting analysis options.\nHodor Fuzzer - Yet Another general purpose fuzzer.\nlibFuzzer - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.\nsyzkaller - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.\nansvif - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.\nTribble - Easy-to-use, coverage-guided JVM fuzzing framework.\ngo-fuzz - Coverage-guided testing of go packages.\nFExM - Automated Large-Scale Fuzzing Framework\nJazzer - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.\ncifuzz - A command line tool for executing coverage-guided fuzz tests in multiple languages and targets.\nWebGL Fuzzer - WebGL Fuzzer\nfast-check - A fuzzer tool written in TypeScript and designed to run un-expected inputs against JavaScript code.",
+      "items": [],
+      "title": "Misc"
+    },
+    {
+      "description": "How user input affects the execution\nPANDA ( Platform for Architecture-Neutral Dynamic Analysis )\nQIRA (QEMU Interactive Runtime Analyser)\nkfetch-toolkit - Tool to perform advanced logging of memory references performed by operating systems’ kernels\nmoflow - A software security framework containing tools for vulnerability, discovery, and triage.",
+      "items": [],
+      "title": "Taint Analysis"
+    },
+    {
+      "description": "Z3 - A theorem prover from Microsoft Research.\nSMT-LIB - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)\nSymbolic execution with KLEE: From installation and introduction to bug-finding in open source software - A set of four instructional videos introducing KLEE, starting with how to get started with KLEE and ending with a demo that finds memory corruption bugs in real code.",
+      "items": [],
+      "title": "Symbolic Execution SAT and SMT Solvers"
+    },
+    {
+      "description": "I haven't included some of the legends like AxMan, please refer the following link for more information. https://www.ee.oulu.fi/research/ouspg/Fuzzers",
+      "items": [],
+      "title": "References"
+    },
+    {
+      "description": "Tools of the trade for exploit developers, reverse engineers",
+      "items": [],
+      "title": "Essential Tools"
+    },
+    {
+      "description": "Windbg - The preferred debugger by exploit writers.\nImmunity Debugger - Immunity Debugger by Immunity Sec.\nOllyDbg - The debugger of choice by reverse engineers and exploit writers alike.\nMona.py ( Plugin for windbg and Immunity dbg ) - Awesome tools that makes life easy for exploit developers.\nx64dbg - An open-source x64/x32 debugger for windows.\nEvan's Debugger (EDB) - Front end for gdb.\nGDB - Gnu Debugger - The favorite linux debugger.\nPEDA - Python Exploit Development Assistance for GDB.\nRadare2 - Framework for reverse-engineering and analyzing binaries.",
+      "items": [],
+      "title": "Debuggers"
+    },
+    {
+      "description": "Dissemblers, disassembly frameworks etc.,\nIDA Pro - The best disassembler\nbinnavi - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.\nCapstone - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.",
+      "items": [],
+      "title": "Disassemblers and some more"
+    },
+    {
+      "description": "ltrace - Intercepts library calls\nstrace - Intercepts system calls",
+      "items": [],
+      "title": "Others"
+    },
+    {
+      "description": "Exploit-DB - https://www.exploit-db.com (search and pick the exploits, which have respective apps available for download, reproduce the exploit by using fuzzer of your choice)\nPacketStorm - https://packetstormsecurity.com/files/tags/exploit/\nFuzzgoat - Vulnerable C program for testing fuzzers.\nvulnserver - A vulnerable server for testing fuzzers.",
+      "items": [],
+      "title": "Vulnerable Applications"
+    },
+    {
+      "description": "https://files.fuzzing-project.org/\nPDF Test Corpus from Mozilla\nMS Office file format documentation\nFuzzer Test Suite - Set of tests for fuzzing engines. Includes different well-known bugs such as Heartbleed, c-ares $100K bug and others.\nFuzzing Corpus - A corpus, including various file formats for fuzzing multiple targets in the fuzzing literature.",
+      "items": [],
+      "title": "Samples files for seeding during fuzzing:"
+    },
+    {
+      "description": "Introduction to Anti-Fuzzing: A Defence In-Depth Aid\nFuzzification: Anti-Fuzzing Techniques\nAntiFuzz: Impeding Fuzzing Audits of Binary Executables",
+      "items": [],
+      "title": "Anti Fuzzing"
+    },
+    {
+      "description": "Awesome Directed Fuzzing: A curated list of awesome directed fuzzing research papers.",
+      "items": [],
+      "title": "Directed Fuzzing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:02:47.865Z",
+    "original_repository": "secfigo/Awesome-Fuzzing",
+    "original_repository_sha": "2b11be8998cd49e00c4955f360c83b8aedabc20c",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Fuzzing",
+    "enhanced_repository_description": null,
+    "title": "Welcome to Awesome Fuzzing with stars"
+  }
+}
