@@ -314,7 +314,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 38,830 | 🐛 612 | 🌐 Ruby | 📅 2026-08-18 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 38,830 | 🐛 616 | 🌐 Ruby | 📅 2026-08-18 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -322,7 +322,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Fuzzotron](https://github.com/denandz/fuzzotron) ⭐ 534 | 🐛 1 | 🌐 C | 📅 2026-01-12 - A simple network fuzzer supporting TCP, UDP and multithreading.
 
-[Mutiny](https://github.com/Cisco-Talos/mutiny-fuzzer) ⭐ 636 | 🐛 2 | 🌐 Python | 📅 2023-01-20 - The Mutiny Fuzzing Framework is a network fuzzer that operates by replaying PCAPs through a mutational fuzzer.
+[Mutiny](https://github.com/Cisco-Talos/mutiny-fuzzer) ⭐ 637 | 🐛 2 | 🌐 Python | 📅 2023-01-20 - The Mutiny Fuzzing Framework is a network fuzzer that operates by replaying PCAPs through a mutational fuzzer.
 
 [Fuzzing For Worms](https://github.com/dobin/ffw) ⭐ 122 | 🐛 10 | 🌐 Python | 📅 2018-10-22 - A fuzzing framework for network servers.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,567 | 🐛 65 | 🌐 C++ | 📅 2026-08-19 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,571 | 🐛 62 | 🌐 C++ | 📅 2026-08-19 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 8,962 | 🐛 365 | 🌐 C | 📅 2026-08-13 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 8,963 | 🐛 366 | 🌐 C | 📅 2026-08-13 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -448,13 +448,13 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 [Fuzzgoat](https://github.com/fuzzstati0n/fuzzgoat) ⭐ 207 | 🐛 3 | 🌐 C | 📅 2022-11-10 - Vulnerable C program for testing fuzzers.
 
-[vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,131 | 🐛 1 | 🌐 C | 📅 2020-10-09 - A vulnerable server for testing fuzzers.
+[vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,132 | 🐛 1 | 🌐 C | 📅 2020-10-09 - A vulnerable server for testing fuzzers.
 
 ##### Samples files for seeding during fuzzing:
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,752 | 🐛 414 | 🌐 JavaScript | 📅 2026-08-19
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,757 | 🐛 414 | 🌐 JavaScript | 📅 2026-08-19
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
