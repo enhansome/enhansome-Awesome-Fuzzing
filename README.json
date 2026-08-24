@@ -255,7 +255,7 @@
                     "last_commit": "2026-03-13T12:56:22Z",
                     "owner": "googleprojectzero",
                     "repo": "winafl",
-                    "stars": 2603
+                    "stars": 2604
                   }
                 },
                 {
@@ -315,7 +315,7 @@
                     "last_commit": "2026-06-19T13:47:59Z",
                     "owner": "google",
                     "repo": "honggfuzz",
-                    "stars": 3374
+                    "stars": 3375
                   }
                 },
                 {
@@ -372,7 +372,7 @@
                     "archived": false,
                     "id": 91344700,
                     "language": "Python",
-                    "last_commit": "2026-08-24T09:11:07Z",
+                    "last_commit": "2026-08-24T20:14:47Z",
                     "owner": "renatahodovan",
                     "repo": "grammarinator",
                     "stars": 436
@@ -454,10 +454,10 @@
                     "archived": false,
                     "id": 2293158,
                     "language": "Ruby",
-                    "last_commit": "2026-08-24T13:11:53Z",
+                    "last_commit": "2026-08-24T20:42:03Z",
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38858
+                    "stars": 38865
                   }
                 },
                 {
@@ -693,7 +693,7 @@
                     "archived": false,
                     "id": 44087204,
                     "language": "Go",
-                    "last_commit": "2026-08-24T13:58:22Z",
+                    "last_commit": "2026-08-24T14:12:26Z",
                     "owner": "google",
                     "repo": "syzkaller",
                     "stars": 6307
@@ -842,10 +842,10 @@
                     "archived": false,
                     "id": 32944298,
                     "language": "C++",
-                    "last_commit": "2026-08-24T03:52:50Z",
+                    "last_commit": "2026-08-24T20:12:20Z",
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12598
+                    "stars": 12599
                   }
                 }
               ],
@@ -918,10 +918,10 @@
                         "archived": false,
                         "id": 14735429,
                         "language": "C",
-                        "last_commit": "2026-08-22T12:04:42Z",
+                        "last_commit": "2026-08-24T16:00:15Z",
                         "owner": "capstone-engine",
                         "repo": "capstone",
-                        "stars": 8972
+                        "stars": 8974
                       }
                     }
                   ],
@@ -985,7 +985,7 @@
                     "last_commit": "2026-08-23T15:16:25Z",
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53773
+                    "stars": 53777
                   }
                 },
                 {
@@ -1064,7 +1064,7 @@
                 "last_commit": "2024-04-03T07:04:46Z",
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5902
+                "stars": 5903
               }
             }
           ],
@@ -1077,7 +1077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:58:28.661Z",
+    "last_updated": "2026-08-24T22:46:53.618Z",
     "original_repository": "secfigo/Awesome-Fuzzing",
     "original_repository_id": 62374656,
     "original_repository_sha": "2b11be8998cd49e00c4955f360c83b8aedabc20c",
