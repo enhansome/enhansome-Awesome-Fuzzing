@@ -19,7 +19,7 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6032
+                    "stars": 6033
                   }
                 }
               ],
@@ -129,7 +129,7 @@
                     "last_commit": "2024-10-24T14:45:24Z",
                     "owner": "google",
                     "repo": "fuzzing",
-                    "stars": 3783
+                    "stars": 3782
                   }
                 },
                 {
@@ -372,7 +372,7 @@
                     "archived": false,
                     "id": 91344700,
                     "language": "Python",
-                    "last_commit": "2026-08-25T10:04:11Z",
+                    "last_commit": "2026-08-26T14:19:32Z",
                     "owner": "renatahodovan",
                     "repo": "grammarinator",
                     "stars": 436
@@ -442,7 +442,7 @@
                     "last_commit": "2026-08-06T20:36:50Z",
                     "owner": "jtpereyda",
                     "repo": "boofuzz",
-                    "stars": 2355
+                    "stars": 2354
                   }
                 },
                 {
@@ -454,10 +454,10 @@
                     "archived": false,
                     "id": 2293158,
                     "language": "Ruby",
-                    "last_commit": "2026-08-25T22:42:16Z",
+                    "last_commit": "2026-08-26T23:53:12Z",
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38877
+                    "stars": 38886
                   }
                 },
                 {
@@ -693,7 +693,7 @@
                     "archived": false,
                     "id": 44087204,
                     "language": "Go",
-                    "last_commit": "2026-08-25T15:24:39Z",
+                    "last_commit": "2026-08-26T08:42:29Z",
                     "owner": "google",
                     "repo": "syzkaller",
                     "stars": 6309
@@ -753,10 +753,10 @@
                     "archived": false,
                     "id": 333867901,
                     "language": "Java",
-                    "last_commit": "2026-08-25T14:45:29Z",
+                    "last_commit": "2026-08-27T01:36:18Z",
                     "owner": "CodeIntelligenceTesting",
                     "repo": "jazzer",
-                    "stars": 1255
+                    "stars": 1254
                   }
                 },
                 {
@@ -842,10 +842,10 @@
                     "archived": false,
                     "id": 32944298,
                     "language": "C++",
-                    "last_commit": "2026-08-25T22:36:11Z",
+                    "last_commit": "2026-08-27T02:56:01Z",
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12605
+                    "stars": 12610
                   }
                 }
               ],
@@ -953,7 +953,7 @@
                 "last_commit": "2022-11-10T08:58:34Z",
                 "owner": "fuzzstati0n",
                 "repo": "fuzzgoat",
-                "stars": 208
+                "stars": 211
               }
             },
             {
@@ -982,10 +982,10 @@
                     "archived": false,
                     "id": 1663468,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-25T17:50:41Z",
+                    "last_commit": "2026-08-26T09:54:38Z",
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53780
+                    "stars": 53786
                   }
                 },
                 {
@@ -1039,10 +1039,10 @@
                 "archived": false,
                 "id": 246256763,
                 "language": null,
-                "last_commit": "2026-08-20T08:12:30Z",
+                "last_commit": "2026-08-26T06:09:10Z",
                 "owner": "strongcourage",
                 "repo": "awesome-directed-fuzzing",
-                "stars": 593
+                "stars": 594
               }
             }
           ],
@@ -1077,7 +1077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T22:48:25.454Z",
+    "last_updated": "2026-08-27T03:21:48.341Z",
     "original_repository": "secfigo/Awesome-Fuzzing",
     "original_repository_id": 62374656,
     "original_repository_sha": "2b11be8998cd49e00c4955f360c83b8aedabc20c",
