@@ -19,8 +19,9 @@
                     "last_commit": "2021-12-09T17:20:50Z",
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6033
-                  }
+                    "stars": 6036
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "NYU Poly ( see videos for more ) - Made available freely by Dan Guido.\nSamclass.info ( check projects section and chapter 17 ) - by Sam.\nOffensive Computer Security - Week 6 - by W. Owen Redwood and Prof. Xiuwen Liu.",
@@ -49,7 +50,8 @@
                     "owner": "bee13oy",
                     "repo": "AV_Kernel_Vulns",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -64,7 +66,8 @@
                     "owner": "yoava333",
                     "repo": "presentations",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Youtube Playlist of various fuzzing talks and presentations - Lots of good content in these videos.\nBrowser bug hunting - Memoirs of a last man standing - by Atte Kettunen\nCoverage-based Greybox Fuzzing as Markov Chain\nDerbyCon 2016: Fuzzing basics...or how to break software\nFuzz Theory - by Brandon Falk",
@@ -93,7 +96,8 @@
                     "owner": "mykter",
                     "repo": "afl-training",
                     "stars": 1283
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -108,7 +112,8 @@
                     "owner": "RootUp",
                     "repo": "PHDays9",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Creating a fuzzing harness for FoxitReader 9.7 ConvertToPDF Function\n50 CVEs in 50 Days: Fuzzing Adobe Reader\nFuzzing sockets, part 1: FTP servers\nFuzzing software: common challenges and potential solutions (Part 1)\nFuzzing software: advanced tricks (Part 2)\nFuzzing workflows; a fuzz job from start to finish - by @BrandonPrry.\nFuzzing capstone using AFL persistent mode - by @toasted_flakes\nRAM disks and saving your SSD from AFL Fuzzing\nBug Hunting with American Fuzzy Lop\nAdvanced usage of American Fuzzy Lop with real world examples\nSegfaulting Python with afl-fuzz\nFuzzing With AFL-Fuzz, a Practical Example ( AFL vs Binutils )\nThe Importance of Fuzzing...Emulators?\nHow Heartbleed could've been found\nFilesystem Fuzzing with American Fuzzy lop\nFuzzing Perl/XS modules with AFL\nHow to fuzz a server with American Fuzzy Lop - by Jonathan Foote",
@@ -130,7 +135,8 @@
                     "owner": "google",
                     "repo": "fuzzing",
                     "stars": 3782
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -145,7 +151,8 @@
                     "owner": "Dor1s",
                     "repo": "libfuzzer-workshop",
                     "stars": 1307
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Hunting for bugs in VirtualBox (First Take)",
@@ -174,7 +181,8 @@
                     "owner": "ouspg",
                     "repo": "cloudfuzzer",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Fuzzers which help fuzzing in cloud environments.\nClusterFuzzer - ClusterFuzzer, scalable open source fuzzing infrastructure. It is used by Google for fuzzing Chrome Browser.\nFuzzit - Fuzzit, Continuous fuzzing as a service platform. Free for open source. used by various open-source projects (systemd, radare2) and close-source projects. To join oss program drop a line at oss@fuzzit.dev",
@@ -196,7 +204,8 @@
                     "owner": "googleprojectzero",
                     "repo": "Jackalope",
                     "stars": 1380
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -211,7 +220,8 @@
                     "owner": "JaanusKaapPublic",
                     "repo": "Rehepapp",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -226,7 +236,8 @@
                     "owner": "JaanusKaapPublic",
                     "repo": "Rehepapp",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -241,7 +252,8 @@
                     "owner": "wmliang",
                     "repo": "pe-afl",
                     "stars": 250
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -256,7 +268,8 @@
                     "owner": "googleprojectzero",
                     "repo": "winafl",
                     "stars": 2604
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -271,7 +284,8 @@
                     "owner": "shellphish",
                     "repo": "fuzzer",
                     "stars": 642
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -286,7 +300,8 @@
                     "owner": "aflgo",
                     "repo": "aflgo",
                     "stars": 558
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -301,7 +316,8 @@
                     "owner": "MozillaSecurity",
                     "repo": "peach",
                     "stars": 418
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -316,7 +332,8 @@
                     "owner": "google",
                     "repo": "honggfuzz",
                     "stars": 3376
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -331,7 +348,8 @@
                     "owner": "samhocevar",
                     "repo": "zzuf",
                     "stars": 448
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -346,7 +364,8 @@
                     "owner": "aoh",
                     "repo": "radamsa",
                     "stars": 1295
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -361,7 +380,8 @@
                     "owner": "binspector",
                     "repo": "binspector",
                     "stars": 245
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -376,7 +396,8 @@
                     "owner": "renatahodovan",
                     "repo": "grammarinator",
                     "stars": 436
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -391,7 +412,8 @@
                     "owner": "ant4g0nist",
                     "repo": "Sloth",
                     "stars": 135
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -406,7 +428,8 @@
                     "owner": "ant4g0nist",
                     "repo": "ManuFuzzer",
                     "stars": 183
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,\nMiniFuzz - Wayback Machine link - Basic file format fuzzing tool by Microsoft. (No longer available on Microsoft website).\nBFF from CERT - Basic Fuzzing Framework for file formats.\nAFL Fuzzer (Linux only) - American Fuzzy Lop Fuzzer by Michal Zalewski aka lcamtuf\nTriforceAFL - A modified version of AFL that supports fuzzing for applications whose source code not available.\nPeach Fuzzer - Framework which helps to create custom dumb and smart fuzzers.\nFailure Observation Engine (FOE) - mutational file-based fuzz testing tool for windows applications.\nrmadair - mutation based file fuzzer that uses PyDBG to monitor for signals of interest.",
@@ -428,7 +451,8 @@
                     "owner": "OpenRCE",
                     "repo": "sulley",
                     "stars": 1450
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -443,7 +467,8 @@
                     "owner": "jtpereyda",
                     "repo": "boofuzz",
                     "stars": 2354
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -454,11 +479,12 @@
                     "archived": false,
                     "id": 2293158,
                     "language": "Ruby",
-                    "last_commit": "2026-08-27T11:21:04Z",
+                    "last_commit": "2026-08-27T20:53:58Z",
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38891
-                  }
+                    "stars": 38899
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -473,7 +499,8 @@
                     "owner": "joxeankoret",
                     "repo": "nightmare",
                     "stars": 374
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -488,7 +515,8 @@
                     "owner": "deanjerkovich",
                     "repo": "rage_fuzzer",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -503,7 +531,8 @@
                     "owner": "denandz",
                     "repo": "fuzzotron",
                     "stars": 534
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -518,7 +547,8 @@
                     "owner": "Cisco-Talos",
                     "repo": "mutiny-fuzzer",
                     "stars": 638
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -533,7 +563,8 @@
                     "owner": "dobin",
                     "repo": "ffw",
                     "stars": 122
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -548,7 +579,8 @@
                     "owner": "jdbirdwell",
                     "repo": "afl",
                     "stars": 199
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -563,7 +595,8 @@
                     "owner": "aflnet",
                     "repo": "aflnet",
                     "stars": 1011
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -578,7 +611,8 @@
                     "owner": "hgascon",
                     "repo": "pulsar",
                     "stars": 354
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Fuzzers which helps in fuzzing applications which use network based protocals like HTTP, SSH, SMTP etc.,\nPeach Fuzzer - Framework which helps to create custom dumb and smart fuzzers.\nSpike - A fuzzer development framework like sulley, a predecessor of sulley.",
@@ -600,7 +634,8 @@
                     "owner": "RootUp",
                     "repo": "BFuzz",
                     "stars": 318
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": null,
@@ -622,7 +657,8 @@
                     "owner": "CENSUS",
                     "repo": "choronzon",
                     "stars": 273
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -637,7 +673,8 @@
                     "owner": "CIFASIS",
                     "repo": "QuickFuzz",
                     "stars": 196
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -652,7 +689,8 @@
                     "owner": "d0c-s4vage",
                     "repo": "gramfuzz",
                     "stars": 258
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -667,7 +705,8 @@
                     "owner": "ReversecLabs",
                     "repo": "KernelFuzzer",
                     "stars": 457
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -682,7 +721,8 @@
                     "owner": "nccgroup",
                     "repo": "Hodor",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -693,11 +733,12 @@
                     "archived": false,
                     "id": 44087204,
                     "language": "Go",
-                    "last_commit": "2026-08-27T09:48:04Z",
+                    "last_commit": "2026-08-27T14:52:09Z",
                     "owner": "google",
                     "repo": "syzkaller",
                     "stars": 6309
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -712,7 +753,8 @@
                     "owner": "SatelliteApplicationsCatapult",
                     "repo": "tribble",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -727,7 +769,8 @@
                     "owner": "dvyukov",
                     "repo": "go-fuzz",
                     "stars": 4849
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -742,7 +785,8 @@
                     "owner": "fgsect",
                     "repo": "fexm",
                     "stars": 120
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -753,11 +797,12 @@
                     "archived": false,
                     "id": 333867901,
                     "language": "Java",
-                    "last_commit": "2026-08-27T01:36:18Z",
+                    "last_commit": "2026-08-27T13:14:50Z",
                     "owner": "CodeIntelligenceTesting",
                     "repo": "jazzer",
-                    "stars": 1254
-                  }
+                    "stars": 1253
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -772,7 +817,8 @@
                     "owner": "ant4g0nist",
                     "repo": "webgl-fuzzer",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "Other notable fuzzers like Kernel Fuzzers, general purpose fuzzer etc.,\nhonggfuzz - A general-purpose, easy-to-use fuzzer with interesting analysis options.\nlibFuzzer - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.\nansvif - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.\nfast-check - A fuzzer tool written in TypeScript and designed to run un-expected inputs against JavaScript code.",
@@ -794,7 +840,8 @@
                     "owner": "moyix",
                     "repo": "panda",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -809,7 +856,8 @@
                     "owner": "googleprojectzero",
                     "repo": "bochspwn",
                     "stars": 346
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -824,7 +872,8 @@
                     "owner": "Cisco-Talos",
                     "repo": "moflow",
                     "stars": 305
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "How user input affects the execution\nQIRA (QEMU Interactive Runtime Analyser)",
@@ -842,11 +891,12 @@
                     "archived": false,
                     "id": 32944298,
                     "language": "C++",
-                    "last_commit": "2026-08-27T10:49:27Z",
+                    "last_commit": "2026-08-28T06:11:27Z",
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12610
-                  }
+                    "stars": 12612
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "SMT-LIB - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)\nSymbolic execution with KLEE: From installation and introduction to bug-finding in open source software - A set of four instructional videos introducing KLEE, starting with how to get started with KLEE and ending with a demo that finds memory corruption bugs in real code.",
@@ -870,7 +920,8 @@
                         "owner": "corelan",
                         "repo": "mona",
                         "stars": 1888
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:15:12.081Z"
                     },
                     {
                       "node_type": "item",
@@ -885,7 +936,8 @@
                         "owner": "longld",
                         "repo": "peda",
                         "stars": 6147
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:15:12.081Z"
                     }
                   ],
                   "description": "Windbg - The preferred debugger by exploit writers.\nImmunity Debugger - Immunity Debugger by Immunity Sec.\nOllyDbg - The debugger of choice by reverse engineers and exploit writers alike.\nx64dbg - An open-source x64/x32 debugger for windows.\nEvan's Debugger (EDB) - Front end for gdb.\nGDB - Gnu Debugger - The favorite linux debugger.\nRadare2 - Framework for reverse-engineering and analyzing binaries.",
@@ -907,7 +959,8 @@
                         "owner": "google",
                         "repo": "binnavi",
                         "stars": 2883
-                      }
+                      },
+                      "first_seen": "2026-08-28T06:15:12.081Z"
                     },
                     {
                       "node_type": "item",
@@ -921,8 +974,9 @@
                         "last_commit": "2026-08-24T16:00:15Z",
                         "owner": "capstone-engine",
                         "repo": "capstone",
-                        "stars": 8975
-                      }
+                        "stars": 8976
+                      },
+                      "first_seen": "2026-08-28T06:15:12.081Z"
                     }
                   ],
                   "description": "Dissemblers, disassembly frameworks etc.,\nIDA Pro - The best disassembler",
@@ -954,7 +1008,8 @@
                 "owner": "fuzzstati0n",
                 "repo": "fuzzgoat",
                 "stars": 211
-              }
+              },
+              "first_seen": "2026-08-28T06:15:12.081Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1024,8 @@
                 "owner": "stephenbradshaw",
                 "repo": "vulnserver",
                 "stars": 1133
-              }
+              },
+              "first_seen": "2026-08-28T06:15:12.081Z"
             },
             {
               "children": [
@@ -982,11 +1038,12 @@
                     "archived": false,
                     "id": 1663468,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-26T09:54:38Z",
+                    "last_commit": "2026-08-28T02:58:49Z",
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53788
-                  }
+                    "stars": 53792
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -1001,7 +1058,8 @@
                     "owner": "google",
                     "repo": "fuzzer-test-suite",
                     "stars": 1471
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 },
                 {
                   "node_type": "item",
@@ -1016,7 +1074,8 @@
                     "owner": "strongcourage",
                     "repo": "fuzzing-corpus",
                     "stars": 323
-                  }
+                  },
+                  "first_seen": "2026-08-28T06:15:12.081Z"
                 }
               ],
               "description": "https://files.fuzzing-project.org/\nMS Office file format documentation",
@@ -1043,7 +1102,8 @@
                 "owner": "strongcourage",
                 "repo": "awesome-directed-fuzzing",
                 "stars": 594
-              }
+              },
+              "first_seen": "2026-08-28T06:15:12.081Z"
             }
           ],
           "description": null,
@@ -1065,7 +1125,8 @@
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
                 "stars": 5905
-              }
+              },
+              "first_seen": "2026-08-28T06:15:12.081Z"
             }
           ],
           "description": "Please refer the guidelines at contributing.md for details.\nThanks to the following folks who made contributions to this project.",
@@ -1077,7 +1138,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:22:18.212Z",
+    "last_updated": "2026-08-28T06:15:12.081Z",
     "original_repository_info": {
       "archived": false,
       "id": 62374656,
