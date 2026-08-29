@@ -14,12 +14,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Course materials for Modern Binary Exploitation by RPISEC",
+                    "homepage": null,
                     "id": 37784277,
                     "language": "C",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2021-12-09T17:20:50Z",
+                    "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6036
+                    "stars": 6038,
+                    "topics": [
+                      "ctf",
+                      "exploitation",
+                      "wargame"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -44,12 +53,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Pocs for Antivirus Software‘s Kernel Vulnerabilities",
+                    "homepage": null,
                     "id": 94444050,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2017-07-06T13:11:43Z",
+                    "open_issues": 0,
                     "owner": "bee13oy",
                     "repo": "AV_Kernel_Vulns",
-                    "stars": 264
+                    "stars": 264,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -60,12 +74,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A repository for my conference presentations",
+                    "homepage": null,
                     "id": 241201177,
                     "language": null,
+                    "license": null,
                     "last_commit": "2020-02-18T07:39:20Z",
+                    "open_issues": 1,
                     "owner": "yoava333",
                     "repo": "presentations",
-                    "stars": 34
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -90,12 +109,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Exercises to learn how to fuzz with American Fuzzy Lop",
+                    "homepage": null,
                     "id": 95681864,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2022-10-12T11:23:26Z",
+                    "open_issues": 6,
                     "owner": "mykter",
                     "repo": "afl-training",
-                    "stars": 1283
+                    "stars": 1284,
+                    "topics": [
+                      "afl",
+                      "fuzzing",
+                      "training",
+                      "workshop"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -106,12 +135,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My fuzzing workshop from PHDays9",
+                    "homepage": null,
                     "id": 188377679,
                     "language": null,
+                    "license": null,
                     "last_commit": "2019-05-24T13:36:55Z",
+                    "open_issues": 0,
                     "owner": "RootUp",
                     "repo": "PHDays9",
-                    "stars": 26
+                    "stars": 26,
+                    "topics": [
+                      "afl",
+                      "afl-fuzz",
+                      "fuzzing",
+                      "phdays",
+                      "workshop",
+                      "workshop-materials"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -129,12 +170,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing",
+                    "homepage": null,
                     "id": 181763124,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-10-24T14:45:24Z",
+                    "open_issues": 24,
                     "owner": "google",
                     "repo": "fuzzing",
-                    "stars": 3782
+                    "stars": 3783,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -145,12 +191,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Repository for materials of \"Modern fuzzing of C/C++ Projects\" workshop.",
+                    "homepage": null,
                     "id": 72939367,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-06-29T06:18:14Z",
+                    "open_issues": 3,
                     "owner": "Dor1s",
                     "repo": "libfuzzer-workshop",
-                    "stars": 1307
+                    "stars": 1307,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -175,12 +226,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 70885872,
                     "language": "Shell",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-04-21T10:09:37Z",
+                    "open_issues": 9,
                     "owner": "ouspg",
                     "repo": "cloudfuzzer",
-                    "stars": 23
+                    "stars": 23,
+                    "topics": [
+                      "cloud",
+                      "docker-swarm",
+                      "fuzzing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -198,12 +258,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android",
+                    "homepage": null,
                     "id": 321704046,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T12:40:01Z",
+                    "open_issues": 28,
                     "owner": "googleprojectzero",
                     "repo": "Jackalope",
-                    "stars": 1380
+                    "stars": 1381,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -214,12 +279,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products",
+                    "homepage": null,
                     "id": 156556828,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2020-01-24T12:22:21Z",
+                    "open_issues": 0,
                     "owner": "JaanusKaapPublic",
                     "repo": "Rehepapp",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -230,12 +300,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "New improved corpus distillation toolset that has helped to found tens of vulnerabilities in MS and Adobe products",
+                    "homepage": null,
                     "id": 156556828,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2020-01-24T12:22:21Z",
+                    "open_issues": 0,
                     "owner": "JaanusKaapPublic",
                     "repo": "Rehepapp",
-                    "stars": 56
+                    "stars": 56,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -246,12 +321,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 170826902,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2020-09-26T08:30:04Z",
+                    "open_issues": 3,
                     "owner": "wmliang",
                     "repo": "pe-afl",
-                    "stars": 250
+                    "stars": 250,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -262,12 +342,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork of AFL for fuzzing Windows binaries",
+                    "homepage": null,
                     "id": 62802730,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-13T12:56:22Z",
+                    "open_issues": 170,
                     "owner": "googleprojectzero",
                     "repo": "winafl",
-                    "stars": 2604
+                    "stars": 2605,
+                    "topics": [
+                      "afl",
+                      "fuzzing",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -278,12 +367,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Python interface to AFL, allowing for easy injection of testcases and other functionality.",
+                    "homepage": null,
                     "id": 66163973,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2019-04-30T21:08:17Z",
+                    "open_issues": 11,
                     "owner": "shellphish",
                     "repo": "fuzzer",
-                    "stars": 642
+                    "stars": 642,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -294,12 +388,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Directed Greybox Fuzzing with AFL",
+                    "homepage": "http://mboehme.github.io/paper/CCS17.pdf",
                     "id": 100235805,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-03-13T14:14:57Z",
+                    "open_issues": 22,
                     "owner": "aflgo",
                     "repo": "aflgo",
-                    "stars": 558
+                    "stars": 558,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -310,12 +409,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Peach is a fuzzing framework which uses a DSL for building fuzzers and an observer based architecture to execute and monitor them.",
+                    "homepage": null,
                     "id": 37490954,
                     "language": "Python",
+                    "license": "MPL-2.0",
                     "last_commit": "2020-07-03T12:05:41Z",
+                    "open_issues": 4,
                     "owner": "MozillaSecurity",
                     "repo": "peach",
-                    "stars": 418
+                    "stars": 418,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -326,12 +430,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)",
+                    "homepage": "https://honggfuzz.dev",
                     "id": 35228769,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-19T13:47:59Z",
+                    "open_issues": 30,
                     "owner": "google",
                     "repo": "honggfuzz",
-                    "stars": 3376
+                    "stars": 3376,
+                    "topics": [
+                      "c",
+                      "fuzzing",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -342,12 +455,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌪️ Application fuzzer",
+                    "homepage": null,
                     "id": 28781334,
                     "language": "C",
+                    "license": "WTFPL",
                     "last_commit": "2022-12-11T20:55:56Z",
+                    "open_issues": 14,
                     "owner": "samhocevar",
                     "repo": "zzuf",
-                    "stars": 448
+                    "stars": 448,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -358,12 +476,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a general-purpose fuzzer",
+                    "homepage": null,
                     "id": 9342543,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-08-14T11:09:51Z",
+                    "open_issues": 6,
                     "owner": "aoh",
                     "repo": "radamsa",
-                    "stars": 1295
+                    "stars": 1295,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -374,12 +497,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A binary format analysis tool",
+                    "homepage": "http://binspector.github.io",
                     "id": 25277597,
                     "language": "C++",
+                    "license": "BSL-1.0",
                     "last_commit": "2021-05-10T17:45:53Z",
+                    "open_issues": 12,
                     "owner": "binspector",
                     "repo": "binspector",
-                    "stars": 245
+                    "stars": 245,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -390,12 +518,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ANTLR v4 grammar-based test generator",
+                    "homepage": "https://grammarinator.readthedocs.io",
                     "id": 91344700,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T14:19:32Z",
+                    "open_issues": 15,
                     "owner": "renatahodovan",
                     "repo": "grammarinator",
-                    "stars": 436
+                    "stars": 436,
+                    "topics": [
+                      "antlr4",
+                      "bughunting",
+                      "fuzzer",
+                      "fuzzing",
+                      "grammar-based-testing",
+                      "hacktoberfest",
+                      "random-testing",
+                      "security",
+                      "test-automation"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -406,12 +549,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation",
+                    "homepage": null,
                     "id": 385688213,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-09-18T03:12:16Z",
+                    "open_issues": 4,
                     "owner": "ant4g0nist",
                     "repo": "Sloth",
-                    "stars": 135
+                    "stars": 135,
+                    "topics": [
+                      "android",
+                      "fuzzing",
+                      "libfuzzer",
+                      "qemu",
+                      "sloth"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -422,12 +576,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM",
+                    "homepage": null,
                     "id": 381453538,
                     "language": "Objective-C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-09T21:19:32Z",
+                    "open_issues": 0,
                     "owner": "ant4g0nist",
                     "repo": "ManuFuzzer",
-                    "stars": 183
+                    "stars": 183,
+                    "topics": [
+                      "apple",
+                      "fuzzing",
+                      "libfuzzer",
+                      "llvm-mc",
+                      "macos"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -445,12 +610,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pure-python fully automated and unattended fuzzing framework.",
+                    "homepage": null,
                     "id": 3919411,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2020-12-29T21:22:41Z",
+                    "open_issues": 56,
                     "owner": "OpenRCE",
                     "repo": "sulley",
-                    "stars": 1450
+                    "stars": 1450,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -461,12 +631,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fork and successor of the Sulley Fuzzing Framework",
+                    "homepage": null,
                     "id": 46895564,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2026-08-06T20:36:50Z",
+                    "open_issues": 101,
                     "owner": "jtpereyda",
                     "repo": "boofuzz",
-                    "stars": 2354
+                    "stars": 2354,
+                    "topics": [
+                      "fuzzing",
+                      "python",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -477,12 +656,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Metasploit Framework",
+                    "homepage": "https://www.metasploit.com/",
                     "id": 2293158,
                     "language": "Ruby",
-                    "last_commit": "2026-08-27T20:53:58Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T17:59:06Z",
+                    "open_issues": 593,
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38899
+                    "stars": 38906,
+                    "topics": [
+                      "hacktoberfest"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -493,12 +679,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A distributed fuzzing testing suite with web administration",
+                    "homepage": null,
                     "id": 22058743,
                     "language": "Python",
+                    "license": "GPL-2.0",
                     "last_commit": "2019-01-14T17:44:44Z",
+                    "open_issues": 10,
                     "owner": "joxeankoret",
                     "repo": "nightmare",
-                    "stars": 374
+                    "stars": 374,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -509,12 +700,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "a dumb protocol-unaware packet fuzzer/replayer",
+                    "homepage": null,
                     "id": 34062858,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2017-12-31T23:09:00Z",
+                    "open_issues": 0,
                     "owner": "deanjerkovich",
                     "repo": "rage_fuzzer",
-                    "stars": 24
+                    "stars": 24,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -525,12 +721,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A TCP/UDP based network daemon fuzzer",
+                    "homepage": null,
                     "id": 106255816,
                     "language": "C",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-01-12T04:12:04Z",
+                    "open_issues": 1,
                     "owner": "denandz",
                     "repo": "fuzzotron",
-                    "stars": 534
+                    "stars": 534,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -541,12 +742,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 108586023,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-01-20T19:10:07Z",
+                    "open_issues": 2,
                     "owner": "Cisco-Talos",
                     "repo": "mutiny-fuzzer",
-                    "stars": 638
+                    "stars": 638,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -557,12 +763,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A fuzzing framework for network servers",
+                    "homepage": null,
                     "id": 98238873,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2018-10-22T12:10:42Z",
+                    "open_issues": 10,
                     "owner": "dobin",
                     "repo": "ffw",
-                    "stars": 122
+                    "stars": 122,
+                    "topics": [
+                      "fuzzer",
+                      "network",
+                      "server"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -573,12 +788,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "american fuzzy lop for network fuzzing (unofficial) -- official afl site is http://lcamtuf.coredump.cx/afl/",
+                    "homepage": null,
                     "id": 44337544,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2018-12-03T14:16:00Z",
+                    "open_issues": 9,
                     "owner": "jdbirdwell",
                     "repo": "afl",
-                    "stars": 199
+                    "stars": 199,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -589,12 +809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AFLNet: A Greybox Fuzzer for Network Protocols (https://thuanpv.github.io/publications/AFLNet_ICST20.pdf)",
+                    "homepage": null,
                     "id": 236618759,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-26T22:53:22Z",
+                    "open_issues": 43,
                     "owner": "aflnet",
                     "repo": "aflnet",
-                    "stars": 1011
+                    "stars": 1011,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -605,12 +830,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Protocol Learning and Stateful Fuzzing",
+                    "homepage": null,
                     "id": 34725410,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-06-07T15:36:11Z",
+                    "open_issues": 1,
                     "owner": "hgascon",
                     "repo": "pulsar",
-                    "stars": 354
+                    "stars": 354,
+                    "topics": [
+                      "fuzzing",
+                      "networking",
+                      "protocol-learning",
+                      "security",
+                      "simulation",
+                      "vulnerability-identification"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -628,12 +865,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Fuzzing Browsers",
+                    "homepage": null,
                     "id": 132633491,
                     "language": "HTML",
+                    "license": null,
                     "last_commit": "2022-12-05T11:57:55Z",
+                    "open_issues": 0,
                     "owner": "RootUp",
                     "repo": "BFuzz",
-                    "stars": 318
+                    "stars": 318,
+                    "topics": [
+                      "browsers",
+                      "domato",
+                      "fuzzing",
+                      "fuzzing-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -651,12 +898,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An evolutionary knowledge-based fuzzer",
+                    "homepage": null,
                     "id": 63764797,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-05T23:41:02Z",
+                    "open_issues": 2,
                     "owner": "CENSUS",
                     "repo": "choronzon",
-                    "stars": 273
+                    "stars": 273,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -667,12 +919,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An experimental grammar fuzzer in Haskell using QuickCheck",
+                    "homepage": "http://QuickFuzz.org",
                     "id": 38159454,
                     "language": "Haskell",
+                    "license": "GPL-3.0",
                     "last_commit": "2020-04-21T14:14:56Z",
+                    "open_issues": 21,
                     "owner": "CIFASIS",
                     "repo": "QuickFuzz",
-                    "stars": 196
+                    "stars": 196,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -683,12 +940,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "gramfuzz is a grammar-based fuzzer that lets one define complex grammars to generate text and binary data formats.",
+                    "homepage": "https://d0c-s4vage.github.io/gramfuzz/",
                     "id": 76222948,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2020-10-02T08:04:16Z",
+                    "open_issues": 9,
                     "owner": "d0c-s4vage",
                     "repo": "gramfuzz",
-                    "stars": 258
+                    "stars": 258,
+                    "topics": [
+                      "complex-grammars",
+                      "fuzzer",
+                      "fuzzing",
+                      "grammar",
+                      "parsing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -699,12 +967,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Cross Platform Kernel Fuzzer Framework",
+                    "homepage": null,
                     "id": 65541864,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2018-10-11T17:59:06Z",
+                    "open_issues": 3,
                     "owner": "ReversecLabs",
                     "repo": "KernelFuzzer",
-                    "stars": 457
+                    "stars": 457,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -715,12 +988,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Hodor! Fuzzer..",
+                    "homepage": null,
                     "id": 59765326,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2016-08-31T01:45:02Z",
+                    "open_issues": 0,
                     "owner": "nccgroup",
                     "repo": "Hodor",
-                    "stars": 129
+                    "stars": 129,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -731,12 +1009,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "syzkaller is an unsupervised coverage-guided kernel fuzzer",
+                    "homepage": null,
                     "id": 44087204,
                     "language": "Go",
-                    "last_commit": "2026-08-27T14:52:09Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T14:06:25Z",
+                    "open_issues": 620,
                     "owner": "google",
                     "repo": "syzkaller",
-                    "stars": 6309
+                    "stars": 6309,
+                    "topics": [
+                      "fuzz-testing",
+                      "fuzzer",
+                      "fuzzing",
+                      "kernel",
+                      "linux",
+                      "security",
+                      "security-tools",
+                      "security-vulnerability",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -747,12 +1040,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Coverage based JVM Fuzz testing tool.",
+                    "homepage": null,
                     "id": 92826270,
                     "language": "Scala",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-09-27T11:58:48Z",
+                    "open_issues": 8,
                     "owner": "SatelliteApplicationsCatapult",
                     "repo": "tribble",
-                    "stars": 19
+                    "stars": 19,
+                    "topics": [
+                      "fuzz-testing",
+                      "java",
+                      "jvm",
+                      "scala",
+                      "testing-tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -763,12 +1067,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Randomized testing for Go",
+                    "homepage": null,
                     "id": 33994380,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-09-24T07:00:22Z",
+                    "open_issues": 58,
                     "owner": "dvyukov",
                     "repo": "go-fuzz",
-                    "stars": 4849
+                    "stars": 4849,
+                    "topics": [
+                      "fuzzing",
+                      "go",
+                      "testing"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -779,12 +1092,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated fuzzing framework",
+                    "homepage": null,
                     "id": 144195601,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-02-02T06:13:35Z",
+                    "open_issues": 8,
                     "owner": "fgsect",
                     "repo": "fexm",
-                    "stars": 120
+                    "stars": 120,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -795,12 +1113,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Coverage-guided, in-process fuzzing for the JVM",
+                    "homepage": "https://code-intelligence.com",
                     "id": 333867901,
                     "language": "Java",
-                    "last_commit": "2026-08-27T13:14:50Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T06:35:57Z",
+                    "open_issues": 47,
                     "owner": "CodeIntelligenceTesting",
                     "repo": "jazzer",
-                    "stars": 1253
+                    "stars": 1253,
+                    "topics": [
+                      "clojure",
+                      "fuzzer",
+                      "fuzzing",
+                      "java",
+                      "jni",
+                      "jvm",
+                      "kotlin",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -811,12 +1143,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebGL fuzzer",
+                    "homepage": "http://192.168.178.206:8000",
                     "id": 611802774,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-03-13T02:48:24Z",
+                    "open_issues": 0,
                     "owner": "ant4g0nist",
                     "repo": "webgl-fuzzer",
-                    "stars": 39
+                    "stars": 39,
+                    "topics": [
+                      "fuzzer",
+                      "fuzzing",
+                      "fuzzing-engines",
+                      "webgl"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -834,12 +1176,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deprecated repo for PANDA 1.0 – see PANDA 2.0 repository",
+                    "homepage": "http://github.com/panda-re/panda",
                     "id": 74495803,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2016-12-17T23:57:28Z",
+                    "open_issues": 3,
                     "owner": "moyix",
                     "repo": "panda",
-                    "stars": 108
+                    "stars": 108,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -850,12 +1197,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Bochs-based instrumentation project designed to log kernel memory references, to identify \"double fetches\" and other OS vulnerabilities",
+                    "homepage": null,
                     "id": 11822259,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2019-05-05T11:46:15Z",
+                    "open_issues": 1,
                     "owner": "googleprojectzero",
                     "repo": "bochspwn",
-                    "stars": 346
+                    "stars": 346,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -866,12 +1218,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Release Branches for MoFlow",
+                    "homepage": null,
                     "id": 11157368,
                     "language": "C++",
+                    "license": null,
                     "last_commit": "2015-11-10T05:43:54Z",
+                    "open_issues": 4,
                     "owner": "Cisco-Talos",
                     "repo": "moflow",
-                    "stars": 305
+                    "stars": 305,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -889,12 +1246,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The Z3 Theorem Prover",
+                    "homepage": null,
                     "id": 32944298,
                     "language": "C++",
-                    "last_commit": "2026-08-28T06:11:27Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T03:38:18Z",
+                    "open_issues": 58,
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12612
+                    "stars": 12614,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -914,12 +1276,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "Corelan Repository for mona.py",
+                        "homepage": null,
                         "id": 15337503,
                         "language": "Python",
+                        "license": "BSD-3-Clause",
                         "last_commit": "2026-04-30T19:16:55Z",
+                        "open_issues": 0,
                         "owner": "corelan",
                         "repo": "mona",
-                        "stars": 1888
+                        "stars": 1888,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:15:12.081Z"
                     },
@@ -930,12 +1297,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "PEDA - Python Exploit Development Assistance for GDB",
+                        "homepage": null,
                         "id": 5282021,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2024-07-29T08:32:28Z",
+                        "open_issues": 76,
                         "owner": "longld",
                         "repo": "peda",
-                        "stars": 6147
+                        "stars": 6147,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T06:15:12.081Z"
                     }
@@ -953,12 +1325,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.",
+                        "homepage": "http://www.zynamics.com/binnavi.html",
                         "id": 41032178,
                         "language": "Java",
+                        "license": "Apache-2.0",
                         "last_commit": "2020-10-23T07:04:37Z",
+                        "open_issues": 0,
                         "owner": "google",
                         "repo": "binnavi",
-                        "stars": 2883
+                        "stars": 2883,
+                        "topics": [
+                          "analysis",
+                          "binnavi",
+                          "java",
+                          "reverse-engineering",
+                          "yfiles"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:15:12.081Z"
                     },
@@ -969,12 +1352,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
+                        "homepage": "http://www.capstone-engine.org",
                         "id": 14735429,
                         "language": "C",
-                        "last_commit": "2026-08-24T16:00:15Z",
+                        "license": null,
+                        "last_commit": "2026-08-28T14:18:08Z",
+                        "open_issues": 367,
                         "owner": "capstone-engine",
                         "repo": "capstone",
-                        "stars": 8976
+                        "stars": 8979,
+                        "topics": [
+                          "arm",
+                          "arm64",
+                          "bpf",
+                          "disassembler",
+                          "ethereum",
+                          "framework",
+                          "m0s65xx",
+                          "m680x",
+                          "m68k",
+                          "mips",
+                          "powerpc",
+                          "reverse-engineering",
+                          "riscv",
+                          "security",
+                          "sparc",
+                          "systemz",
+                          "tms320c64x",
+                          "webassembly",
+                          "x86",
+                          "x86-64"
+                        ]
                       },
                       "first_seen": "2026-08-28T06:15:12.081Z"
                     }
@@ -1002,12 +1411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A vulnerable C program for testing fuzzers. ",
+                "homepage": null,
                 "id": 93589072,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2022-11-10T08:58:34Z",
+                "open_issues": 3,
                 "owner": "fuzzstati0n",
                 "repo": "fuzzgoat",
-                "stars": 211
+                "stars": 211,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:12.081Z"
             },
@@ -1018,12 +1432,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vulnerable server used for learning software exploitation",
+                "homepage": null,
                 "id": 20147614,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2020-10-09T00:40:05Z",
+                "open_issues": 1,
                 "owner": "stephenbradshaw",
                 "repo": "vulnserver",
-                "stars": 1133
+                "stars": 1133,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:15:12.081Z"
             },
@@ -1036,12 +1455,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PDF Reader in JavaScript",
+                    "homepage": "https://mozilla.github.io/pdf.js/",
                     "id": 1663468,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T02:58:49Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-28T18:04:21Z",
+                    "open_issues": 417,
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53792
+                    "stars": 53798,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -1052,12 +1476,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Set of tests for fuzzing engines",
+                    "homepage": null,
                     "id": 70218212,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2021-08-25T17:25:26Z",
+                    "open_issues": 5,
                     "owner": "google",
                     "repo": "fuzzer-test-suite",
-                    "stars": 1471
+                    "stars": 1471,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 },
@@ -1068,12 +1497,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "My fuzzing corpus",
+                    "homepage": null,
                     "id": 196460031,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2020-04-05T23:21:12Z",
+                    "open_issues": 0,
                     "owner": "strongcourage",
                     "repo": "fuzzing-corpus",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": [
+                      "corpus",
+                      "file-format",
+                      "fuzzing",
+                      "testsuite",
+                      "vulnerability"
+                    ]
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
                 }
@@ -1096,12 +1536,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome directed fuzzing research papers",
+                "homepage": null,
                 "id": 246256763,
                 "language": null,
-                "last_commit": "2026-08-26T06:09:10Z",
+                "license": null,
+                "last_commit": "2026-08-28T06:39:01Z",
+                "open_issues": 0,
                 "owner": "strongcourage",
                 "repo": "awesome-directed-fuzzing",
-                "stars": 594
+                "stars": 594,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "fuzz-testing",
+                  "fuzzing",
+                  "paper-list",
+                  "research-paper",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T06:15:12.081Z"
             }
@@ -1119,12 +1572,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
+                "homepage": null,
                 "id": 62374656,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-04-03T07:04:46Z",
+                "open_issues": 10,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5905
+                "stars": 5905,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "fuzzing",
+                  "fuzzing-framework",
+                  "secfigo"
+                ]
               },
               "first_seen": "2026-08-28T06:15:12.081Z"
             }
@@ -1138,15 +1602,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:15:12.081Z",
+    "last_updated": "2026-08-29T03:44:01.506Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
+      "homepage": null,
       "id": 62374656,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-04-03T07:04:46Z",
+      "open_issues": 10,
       "owner": "secfigo",
       "repo": "Awesome-Fuzzing",
-      "stars": 5905
+      "stars": 5905,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "fuzzing",
+        "fuzzing-framework",
+        "secfigo"
+      ]
     },
     "original_repository_sha": "2b11be8998cd49e00c4955f360c83b8aedabc20c",
     "enhanced_repository": "enhansome/enhansome-Awesome-Fuzzing",
