@@ -1464,7 +1464,7 @@
                     "open_issues": 417,
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53798,
+                    "stars": 53799,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:44:01.506Z",
+    "last_updated": "2026-08-29T04:19:31.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
