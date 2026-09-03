@@ -23,7 +23,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6041,
+                    "stars": 6042,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -640,7 +640,7 @@
                     "open_issues": 101,
                     "owner": "jtpereyda",
                     "repo": "boofuzz",
-                    "stars": 2355,
+                    "stars": 2356,
                     "topics": [
                       "fuzzing",
                       "python",
@@ -661,11 +661,11 @@
                     "id": 2293158,
                     "language": "Ruby",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T22:02:19Z",
-                    "open_issues": 603,
+                    "last_commit": "2026-09-02T23:22:01Z",
+                    "open_issues": 602,
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38927,
+                    "stars": 38932,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -1014,11 +1014,11 @@
                     "id": 44087204,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T08:21:31Z",
-                    "open_issues": 627,
+                    "last_commit": "2026-09-02T14:59:57Z",
+                    "open_issues": 625,
                     "owner": "google",
                     "repo": "syzkaller",
-                    "stars": 6313,
+                    "stars": 6314,
                     "topics": [
                       "fuzz-testing",
                       "fuzzer",
@@ -1118,7 +1118,7 @@
                     "id": 333867901,
                     "language": "Java",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T02:52:51Z",
+                    "last_commit": "2026-09-02T21:31:46Z",
                     "open_issues": 48,
                     "owner": "CodeIntelligenceTesting",
                     "repo": "jazzer",
@@ -1251,11 +1251,11 @@
                     "id": 32944298,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T23:08:25Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-09-02T23:42:15Z",
+                    "open_issues": 51,
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12627,
+                    "stars": 12631,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1357,8 +1357,8 @@
                         "id": 14735429,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-09-01T13:20:05Z",
-                        "open_issues": 367,
+                        "last_commit": "2026-09-02T13:48:51Z",
+                        "open_issues": 361,
                         "owner": "capstone-engine",
                         "repo": "capstone",
                         "stars": 8994,
@@ -1460,11 +1460,11 @@
                     "id": 1663468,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-01T18:35:14Z",
-                    "open_issues": 412,
+                    "last_commit": "2026-09-03T00:11:09Z",
+                    "open_issues": 416,
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53807,
+                    "stars": 53815,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T00:18:54.811Z",
+    "last_updated": "2026-09-03T00:20:07.886Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
