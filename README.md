@@ -298,9 +298,9 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [grammarinator](https://github.com/renatahodovan/grammarinator) ⭐ 437 | 🐛 15 | 🌐 Python | 📅 2026-08-26 - Fuzzing tool for file formats based on ANTLR v4 grammars (lots of grammars already available from the ANTLR project).
 
-[Sloth](https://github.com/ant4g0nist/sloth) ⭐ 135 | 🐛 4 | 🌐 C++ | 📅 2023-09-18 - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation.
+[Sloth](https://github.com/ant4g0nist/sloth) ⭐ 134 | 🐛 4 | 🌐 C++ | 📅 2023-09-18 - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation.
 
-[ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer) ⭐ 183 | 🐛 0 | 🌐 Objective-C++ | 📅 2026-08-09 - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.
+[ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer) ⭐ 182 | 🐛 0 | 🌐 Objective-C++ | 📅 2026-08-09 - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.
 
 ### Network Protocol Fuzzers
 
@@ -314,7 +314,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 38,932 | 🐛 605 | 🌐 Ruby | 📅 2026-09-03 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 38,944 | 🐛 607 | 🌐 Ruby | 📅 2026-09-03 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -356,7 +356,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,316 | 🐛 624 | 🌐 Go | 📅 2026-09-03 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,317 | 🐛 626 | 🌐 Go | 📅 2026-09-04 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
 
 [ansvif](https://oxagast.github.io/ansvif/) - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.
 
@@ -366,7 +366,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [FExM](https://github.com/fgsect/fexm) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2023-02-02 - Automated Large-Scale Fuzzing Framework
 
-[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,254 | 🐛 48 | 🌐 Java | 📅 2026-09-02 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
+[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,255 | 🐛 49 | 🌐 Java | 📅 2026-09-02 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
 
 [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) - A command line tool for executing coverage-guided fuzz tests in multiple languages and targets.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,636 | 🐛 53 | 🌐 C++ | 📅 2026-09-03 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,638 | 🐛 52 | 🌐 C++ | 📅 2026-09-05 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -419,7 +419,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [GDB - Gnu Debugger](http://www.sourceware.org/gdb/) - The favorite linux debugger.
 
-[PEDA](https://github.com/longld/peda) ⭐ 6,148 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
+[PEDA](https://github.com/longld/peda) ⭐ 6,149 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
 
 [Radare2](http://www.radare.org/r/) - Framework for reverse-engineering and analyzing binaries.
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 8,996 | 🐛 359 | 🌐 C | 📅 2026-09-03 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 8,999 | 🐛 358 | 🌐 C | 📅 2026-09-04 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -454,7 +454,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,819 | 🐛 412 | 🌐 JavaScript | 📅 2026-09-03
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,829 | 🐛 417 | 🌐 JavaScript | 📅 2026-09-04
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
@@ -472,7 +472,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 ## Directed Fuzzing
 
-[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 596 | 🐛 0 | 📅 2026-08-28: A curated list of awesome directed fuzzing research papers.
+[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 598 | 🐛 0 | 📅 2026-09-04: A curated list of awesome directed fuzzing research papers.
 
 ## Contributing
 
@@ -486,4 +486,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
