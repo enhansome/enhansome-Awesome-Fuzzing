@@ -267,7 +267,7 @@
                     "open_issues": 27,
                     "owner": "googleprojectzero",
                     "repo": "Jackalope",
-                    "stars": 1381,
+                    "stars": 1382,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -662,10 +662,10 @@
                     "language": "Ruby",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-03T17:29:30Z",
-                    "open_issues": 609,
+                    "open_issues": 611,
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 38946,
+                    "stars": 38951,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -1015,10 +1015,10 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-04T15:00:56Z",
-                    "open_issues": 626,
+                    "open_issues": 627,
                     "owner": "google",
                     "repo": "syzkaller",
-                    "stars": 6318,
+                    "stars": 6319,
                     "topics": [
                       "fuzz-testing",
                       "fuzzer",
@@ -1185,7 +1185,7 @@
                     "open_issues": 3,
                     "owner": "moyix",
                     "repo": "panda",
-                    "stars": 108,
+                    "stars": 109,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1251,11 +1251,11 @@
                     "id": 32944298,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-05T23:36:45Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-09-06T23:34:51Z",
+                    "open_issues": 41,
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12644,
+                    "stars": 12645,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1357,11 +1357,11 @@
                         "id": 14735429,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-09-04T13:11:41Z",
+                        "last_commit": "2026-09-06T19:58:09Z",
                         "open_issues": 358,
                         "owner": "capstone-engine",
                         "repo": "capstone",
-                        "stars": 8999,
+                        "stars": 8998,
                         "topics": [
                           "arm",
                           "arm64",
@@ -1460,11 +1460,11 @@
                     "id": 1663468,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-04T06:30:35Z",
-                    "open_issues": 419,
+                    "last_commit": "2026-09-06T18:49:14Z",
+                    "open_issues": 413,
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 53836,
+                    "stars": 53840,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1581,7 +1581,7 @@
                 "open_issues": 11,
                 "owner": "secfigo",
                 "repo": "Awesome-Fuzzing",
-                "stars": 5912,
+                "stars": 5911,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1602,7 +1602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:57:36.760Z",
+    "last_updated": "2026-09-06T23:59:40.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
@@ -1614,7 +1614,7 @@
       "open_issues": 11,
       "owner": "secfigo",
       "repo": "Awesome-Fuzzing",
-      "stars": 5912,
+      "stars": 5911,
       "topics": [
         "awesome",
         "awesome-list",
