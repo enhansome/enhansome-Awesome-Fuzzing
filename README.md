@@ -59,7 +59,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Samclass.info ( check projects section and chapter 17 ) ](https://samsclass.info/127/127_F15.shtml) - by Sam.
 
-[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,052 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
+[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,054 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
 
 [Offensive Computer Security - Week 6](https://web.archive.org/web/20200414165953/https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - by W. Owen Redwood and Prof. Xiuwen Liu.
 
@@ -204,7 +204,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [How to fuzz a server with American Fuzzy Lop](https://www.fastly.com/blog/how-fuzz-server-american-fuzzy-lop) - by Jonathan Foote
 
-[Fuzzing with AFL Workshop - a set of challenges on real vulnerabilities](https://github.com/ThalesIgnite/afl-training) ⭐ 1,284 | 🐛 6 | 🌐 C | 📅 2022-10-12
+[Fuzzing with AFL Workshop - a set of challenges on real vulnerabilities](https://github.com/ThalesIgnite/afl-training) ⭐ 1,283 | 🐛 6 | 🌐 C | 📅 2022-10-12
 
 [Fuzzing 101 - PHDays](https://github.com/RootUp/PHDays9) ⭐ 26 | 🐛 0 | 📅 2019-05-24
 
@@ -264,7 +264,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Newer version of Rehepapp](https://github.com/FoxHex0ne/Rehepapp) ⭐ 56 | 🐛 0 | 🌐 Java | 📅 2020-01-24
 
-[pe-afl combines static binary instrumentation on PE binary and WinAFL](https://github.com/wmliang/pe-afl) ⭐ 250 | 🐛 3 | 🌐 Python | 📅 2020-09-26
+[pe-afl combines static binary instrumentation on PE binary and WinAFL](https://github.com/wmliang/pe-afl) ⭐ 249 | 🐛 3 | 🌐 Python | 📅 2020-09-26
 
 [MiniFuzz - Wayback Machine link](https://web.archive.org/web/20140512203517/http://download.microsoft.com/download/D/6/E/D6EDC908-A1D7-4790-AB0B-66A8B35CD931/MiniFuzzSetup.msi) - Basic file format fuzzing tool by Microsoft. (No longer available on Microsoft website).
 
@@ -314,7 +314,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,073 | 🐛 612 | 🌐 Ruby | 📅 2026-09-29 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,071 | 🐛 617 | 🌐 Ruby | 📅 2026-09-30 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -356,7 +356,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,332 | 🐛 636 | 🌐 Go | 📅 2026-09-29 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,332 | 🐛 638 | 🌐 Go | 📅 2026-10-01 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
 
 [ansvif](https://oxagast.github.io/ansvif/) - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,732 | 🐛 54 | 🌐 C++ | 📅 2026-09-30 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,735 | 🐛 45 | 🌐 C++ | 📅 2026-09-30 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -419,7 +419,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [GDB - Gnu Debugger](http://www.sourceware.org/gdb/) - The favorite linux debugger.
 
-[PEDA](https://github.com/longld/peda) ⭐ 6,155 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
+[PEDA](https://github.com/longld/peda) ⭐ 6,153 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
 
 [Radare2](http://www.radare.org/r/) - Framework for reverse-engineering and analyzing binaries.
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 9,045 | 🐛 357 | 🌐 C | 📅 2026-09-29 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 9,046 | 🐛 355 | 🌐 C | 📅 2026-09-30 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -454,7 +454,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,956 | 🐛 429 | 🌐 JavaScript | 📅 2026-09-29
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,966 | 🐛 436 | 🌐 JavaScript | 📅 2026-09-29
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
@@ -472,7 +472,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 ## Directed Fuzzing
 
-[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 599 | 🐛 0 | 📅 2026-09-04: A curated list of awesome directed fuzzing research papers.
+[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 600 | 🐛 0 | 📅 2026-09-04: A curated list of awesome directed fuzzing research papers.
 
 ## Contributing
 
@@ -480,10 +480,10 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 Thanks to the following folks who made contributions to this project.
 
-* [and these awesome people](https://github.com/secfigo/Awesome-Fuzzing/graphs/contributors) ⭐ 5,916 | 🐛 12 | 📅 2024-04-03
+* [and these awesome people](https://github.com/secfigo/Awesome-Fuzzing/graphs/contributors) ⭐ 5,917 | 🐛 12 | 📅 2024-04-03
 * [Tim Strazzere](https://twitter.com/timstrazz)
 * [jksecurity](https://github.com/jksecurity)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
