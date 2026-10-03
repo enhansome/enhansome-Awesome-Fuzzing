@@ -49,7 +49,7 @@
                 {
                   "node_type": "item",
                   "title": "Attacking Antivirus Software's Kernel Driver",
-                  "description": null,
+                  "description": "bee13oy/AV_Kernel_Vulns",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -70,7 +70,7 @@
                 {
                   "node_type": "item",
                   "title": "Fuzzing the Windows Kernel - OffensiveCon 2020",
-                  "description": null,
+                  "description": "yoava333/presentations",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -105,7 +105,7 @@
                 {
                   "node_type": "item",
                   "title": "Fuzzing with AFL Workshop - a set of challenges on real vulnerabilities",
-                  "description": null,
+                  "description": "mykter/afl-training",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -131,7 +131,7 @@
                 {
                   "node_type": "item",
                   "title": "Fuzzing 101 - PHDays",
-                  "description": null,
+                  "description": "RootUp/PHDays9",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -166,7 +166,7 @@
                 {
                   "node_type": "item",
                   "title": "libFuzzer Tutorial",
-                  "description": null,
+                  "description": "google/fuzzing",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -187,7 +187,7 @@
                 {
                   "node_type": "item",
                   "title": "libFuzzer Workshop: \"Modern fuzzing of C/C++ Projects\"",
-                  "description": null,
+                  "description": "Dor1s/libfuzzer-workshop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -254,7 +254,7 @@
                 {
                   "node_type": "item",
                   "title": "Jackalope",
-                  "description": null,
+                  "description": "googleprojectzero/Jackalope",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -275,7 +275,7 @@
                 {
                   "node_type": "item",
                   "title": "Rehepapp",
-                  "description": null,
+                  "description": "JaanusKaapPublic/Rehepapp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -296,7 +296,7 @@
                 {
                   "node_type": "item",
                   "title": "Newer version of Rehepapp",
-                  "description": null,
+                  "description": "JaanusKaapPublic/Rehepapp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -317,7 +317,7 @@
                 {
                   "node_type": "item",
                   "title": "pe-afl combines static binary instrumentation on PE binary and WinAFL",
-                  "description": null,
+                  "description": "wmliang/pe-afl",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1015,7 +1015,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-02T10:23:01Z",
-                    "open_issues": 634,
+                    "open_issues": 635,
                     "owner": "google",
                     "repo": "syzkaller",
                     "stars": 6334,
@@ -1172,7 +1172,7 @@
                 {
                   "node_type": "item",
                   "title": "PANDA ( Platform for Architecture-Neutral Dynamic Analysis )",
-                  "description": null,
+                  "description": "moyix/panda",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1251,8 +1251,8 @@
                     "id": 32944298,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T00:46:23Z",
-                    "open_issues": 53,
+                    "last_commit": "2026-10-03T03:52:05Z",
+                    "open_issues": 51,
                     "owner": "Z3Prover",
                     "repo": "z3",
                     "stars": 12743,
@@ -1451,7 +1451,7 @@
                 {
                   "node_type": "item",
                   "title": "PDF Test Corpus from Mozilla",
-                  "description": null,
+                  "description": "mozilla/pdf.js",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1562,47 +1562,13 @@
           "description": null,
           "node_type": "group",
           "title": "Directed Fuzzing"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "and these awesome people",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
-                "homepage": null,
-                "id": 62374656,
-                "language": null,
-                "license": "CC0-1.0",
-                "last_commit": "2024-04-03T07:04:46Z",
-                "open_issues": 12,
-                "owner": "secfigo",
-                "repo": "Awesome-Fuzzing",
-                "stars": 5918,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "fuzzing",
-                  "fuzzing-framework",
-                  "secfigo"
-                ]
-              },
-              "first_seen": "2026-08-28T06:15:12.081Z"
-            }
-          ],
-          "description": "Please refer the guidelines at contributing.md for details.\nThanks to the following folks who made contributions to this project.",
-          "node_type": "group",
-          "title": "Contributing"
         }
       ],
       "title": "Awesome Fuzzing Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:13:46.904Z",
+    "last_updated": "2026-10-03T04:25:06.638Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
@@ -1614,7 +1580,7 @@
       "open_issues": 12,
       "owner": "secfigo",
       "repo": "Awesome-Fuzzing",
-      "stars": 5918,
+      "stars": 5919,
       "topics": [
         "awesome",
         "awesome-list",
