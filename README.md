@@ -59,7 +59,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Samclass.info ( check projects section and chapter 17 ) ](https://samsclass.info/127/127_F15.shtml) - by Sam.
 
-[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,063 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
+[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,064 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
 
 [Offensive Computer Security - Week 6](https://web.archive.org/web/20200414165953/https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - by W. Owen Redwood and Prof. Xiuwen Liu.
 
@@ -292,7 +292,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [zzuf](https://github.com/samhocevar/zzuf) ⭐ 449 | 🐛 14 | 🌐 C | 📅 2022-12-11 - A transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input.
 
-[radamsa](https://github.com/aoh/radamsa) ⭐ 1,297 | 🐛 6 | 📅 2018-08-14 - A general purpose fuzzer and test case generator.
+[radamsa](https://github.com/aoh/radamsa) ⭐ 1,298 | 🐛 6 | 📅 2018-08-14 - A general purpose fuzzer and test case generator.
 
 [binspector](https://github.com/binspector/binspector) ⭐ 245 | 🐛 12 | 🌐 C++ | 📅 2021-05-10 - A binary format analysis and fuzzing tool
 
@@ -310,11 +310,11 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Sulley](https://github.com/OpenRCE/sulley) ⭐ 1,451 | 🐛 56 | 🌐 Python | 📅 2020-12-29 -  A fuzzer development and fuzz testing framework consisting of multiple extensible components by Pedram Amini.
 
-[boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,362 | 🐛 101 | 🌐 Python | 📅 2026-09-21 -  A fork and successor of Sulley framework.
+[boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,361 | 🐛 101 | 🌐 Python | 📅 2026-09-21 -  A fork and successor of Sulley framework.
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,120 | 🐛 604 | 🌐 Ruby | 📅 2026-10-08 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,126 | 🐛 608 | 🌐 Ruby | 📅 2026-10-08 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 375 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -356,7 +356,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,344 | 🐛 631 | 🌐 Go | 📅 2026-10-09 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,344 | 🐛 632 | 🌐 Go | 📅 2026-10-09 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
 
 [ansvif](https://oxagast.github.io/ansvif/) - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,769 | 🐛 44 | 🌐 C++ | 📅 2026-10-09 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,771 | 🐛 42 | 🌐 C++ | 📅 2026-10-10 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 9,070 | 🐛 352 | 🌐 C | 📅 2026-10-09 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 9,074 | 🐛 353 | 🌐 C | 📅 2026-10-09 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -454,7 +454,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,989 | 🐛 443 | 🌐 JavaScript | 📅 2026-10-09
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 53,990 | 🐛 444 | 🌐 JavaScript | 📅 2026-10-10
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
@@ -486,4 +486,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
