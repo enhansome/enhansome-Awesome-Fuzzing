@@ -59,7 +59,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Samclass.info ( check projects section and chapter 17 ) ](https://samsclass.info/127/127_F15.shtml) - by Sam.
 
-[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,089 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
+[Modern Binary Exploitation ( RPISEC ) - Chapter 15 ](https://github.com/RPISEC/MBE) ⭐ 6,090 | 🐛 11 | 🌐 C | 📅 2021-12-09 - by RPISEC.
 
 [Offensive Computer Security - Week 6](https://web.archive.org/web/20200414165953/https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html) - by W. Owen Redwood and Prof. Xiuwen Liu.
 
@@ -258,7 +258,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 *Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
 
-[Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,391 | 🐛 28 | 🌐 C++ | 📅 2026-08-25
+[Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,392 | 🐛 28 | 🌐 C++ | 📅 2026-08-25
 
 [Rehepapp](https://github.com/FoxHex0ne/Rehepapp) ⭐ 56 | 🐛 0 | 🌐 Java | 📅 2020-01-24
 
@@ -278,7 +278,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [TriforceAFL](https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2016/june/project-triforce-run-afl-on-everything/) - A modified version of AFL that supports fuzzing for applications whose source code not available.
 
-[AFLGo](https://github.com/aflgo/aflgo) ⭐ 562 | 🐛 22 | 🌐 C | 📅 2024-03-13 - Directed Greybox Fuzzing with AFL, to fuzz targeted locations of a program.
+[AFLGo](https://github.com/aflgo/aflgo) ⭐ 563 | 🐛 22 | 🌐 C | 📅 2024-03-13 - Directed Greybox Fuzzing with AFL, to fuzz targeted locations of a program.
 
 [Peach Fuzzer](https://sourceforge.net/projects/peachfuzz/) - Framework which helps to create custom dumb and smart fuzzers.
 
@@ -300,7 +300,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Sloth](https://github.com/ant4g0nist/sloth) ⭐ 135 | 🐛 4 | 🌐 C++ | 📅 2023-09-18 - Sloth 🦥 is a coverage guided fuzzing framework for fuzzing Android Native libraries that makes use of libFuzzer and QEMU user-mode emulation.
 
-[ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer) ⭐ 181 | 🐛 0 | 🌐 Objective-C++ | 📅 2026-08-09 - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.
+[ManuFuzzer](https://github.com/ant4g0nist/ManuFuzzer) ⭐ 182 | 🐛 0 | 🌐 Objective-C++ | 📅 2026-08-09 - Binary code-coverage fuzzer for macOS, based on libFuzzer and LLVM.
 
 ### Network Protocol Fuzzers
 
@@ -310,11 +310,11 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Sulley](https://github.com/OpenRCE/sulley) ⭐ 1,453 | 🐛 56 | 🌐 Python | 📅 2020-12-29 -  A fuzzer development and fuzz testing framework consisting of multiple extensible components by Pedram Amini.
 
-[boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,368 | 🐛 101 | 🌐 Python | 📅 2026-09-21 -  A fork and successor of Sulley framework.
+[boofuzz](https://github.com/jtpereyda/boofuzz) ⭐ 2,369 | 🐛 101 | 🌐 Python | 📅 2026-09-21 -  A fork and successor of Sulley framework.
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,264 | 🐛 622 | 🌐 Ruby | 📅 2026-10-29 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,278 | 🐛 626 | 🌐 Ruby | 📅 2026-10-30 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 375 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -328,7 +328,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [AFL (w/ networking patch)](https://github.com/jdbirdwell/afl) ⭐ 199 | 🐛 9 | 🌐 C | 📅 2018-12-03 - An unofficial american fuzzy lop capable of network fuzzing.
 
-[AFLNet](https://github.com/aflnet/aflnet) ⭐ 1,015 | 🐛 43 | 🌐 C | 📅 2025-05-26 - A Greybox Fuzzer for Network Protocols (an extention of AFL).
+[AFLNet](https://github.com/aflnet/aflnet) ⭐ 1,016 | 🐛 43 | 🌐 C | 📅 2025-05-26 - A Greybox Fuzzer for Network Protocols (an extention of AFL).
 
 [Pulsar](https://github.com/hgascon/pulsar) ⭐ 353 | 🐛 1 | 🌐 Python | 📅 2022-06-07 - Protocol Learning, Simulation and Stateful Fuzzer.
 
@@ -356,7 +356,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,384 | 🐛 643 | 🌐 Go | 📅 2026-10-29 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,385 | 🐛 645 | 🌐 Go | 📅 2026-10-30 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
 
 [ansvif](https://oxagast.github.io/ansvif/) - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.
 
@@ -366,7 +366,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [FExM](https://github.com/fgsect/fexm) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2023-02-02 - Automated Large-Scale Fuzzing Framework
 
-[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,262 | 🐛 54 | 🌐 Java | 📅 2026-10-28 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
+[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,263 | 🐛 54 | 🌐 Java | 📅 2026-10-28 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
 
 [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) - A command line tool for executing coverage-guided fuzz tests in multiple languages and targets.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,859 | 🐛 53 | 🌐 C++ | 📅 2026-10-30 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,864 | 🐛 52 | 🌐 C++ | 📅 2026-10-31 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -419,7 +419,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [GDB - Gnu Debugger](http://www.sourceware.org/gdb/) - The favorite linux debugger.
 
-[PEDA](https://github.com/longld/peda) ⭐ 6,161 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
+[PEDA](https://github.com/longld/peda) ⭐ 6,160 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
 
 [Radare2](http://www.radare.org/r/) - Framework for reverse-engineering and analyzing binaries.
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 9,150 | 🐛 352 | 🌐 C | 📅 2026-10-27 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 9,156 | 🐛 354 | 🌐 C | 📅 2026-10-27 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -454,7 +454,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 54,060 | 🐛 482 | 🌐 JavaScript | 📅 2026-10-30
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 54,065 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-30
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
@@ -472,7 +472,7 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 ## Directed Fuzzing
 
-[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 604 | 🐛 1 | 📅 2026-10-12: A curated list of awesome directed fuzzing research papers.
+[Awesome Directed Fuzzing](https://github.com/strongcourage/awesome-directed-fuzzing) ⭐ 604 | 🐛 0 | 📅 2026-10-30: A curated list of awesome directed fuzzing research papers.
 
 ## Contributing
 
@@ -486,4 +486,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
