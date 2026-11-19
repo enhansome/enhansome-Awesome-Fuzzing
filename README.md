@@ -258,7 +258,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 *Fuzzers which helps in fuzzing file formats like pdf, mp3, swf etc.,*
 
-[Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,394 | 🐛 28 | 🌐 C++ | 📅 2026-08-25
+[Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,395 | 🐛 28 | 🌐 C++ | 📅 2026-08-25
 
 [Rehepapp](https://github.com/FoxHex0ne/Rehepapp) ⭐ 56 | 🐛 0 | 🌐 Java | 📅 2020-01-24
 
@@ -272,7 +272,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [AFL Fuzzer (Linux only)](http://lcamtuf.coredump.cx/afl/) - American Fuzzy Lop Fuzzer by Michal Zalewski aka lcamtuf
 
-[Win AFL](https://github.com/googleprojectzero/winafl) ⭐ 2,627 | 🐛 170 | 🌐 C | 📅 2026-03-13 - A fork of AFL for fuzzing Windows binaries
+[Win AFL](https://github.com/googleprojectzero/winafl) ⭐ 2,629 | 🐛 170 | 🌐 C | 📅 2026-03-13 - A fork of AFL for fuzzing Windows binaries
 
 [Shellphish Fuzzer](https://github.com/shellphish/fuzzer) ⚠️ Archived - A Python interface to AFL, allowing for easy injection of testcases and other functionality.
 
@@ -288,7 +288,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [rmadair](http://rmadair.github.io/fuzzer/) - mutation based file fuzzer that uses PyDBG to monitor for signals of interest.
 
-[honggfuzz](https://github.com/google/honggfuzz) ⭐ 3,414 | 🐛 32 | 🌐 C | 📅 2026-09-25 - A general-purpose, easy-to-use fuzzer with interesting analysis options. Supports feedback-driven fuzzing based on code coverage. Supports GNU/Linux, FreeBSD, Mac OSX and Android.
+[honggfuzz](https://github.com/google/honggfuzz) ⭐ 3,416 | 🐛 32 | 🌐 C | 📅 2026-09-25 - A general-purpose, easy-to-use fuzzer with interesting analysis options. Supports feedback-driven fuzzing based on code coverage. Supports GNU/Linux, FreeBSD, Mac OSX and Android.
 
 [zzuf](https://github.com/samhocevar/zzuf) ⭐ 450 | 🐛 14 | 🌐 C | 📅 2022-12-11 - A transparent application input fuzzer. It works by intercepting file operations and changing random bits in the program's input.
 
@@ -314,7 +314,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [Spike](http://www.immunitysec.com/downloads/SPIKE2.9.tgz) - A fuzzer development framework like sulley, a predecessor of sulley.
 
-[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,599 | 🐛 613 | 🌐 Ruby | 📅 2026-11-17 - A framework which contains some fuzzing capabilities via Auxiliary modules.
+[Metasploit Framework](https://github.com/rapid7/metasploit-framework) ⭐ 39,612 | 🐛 608 | 🌐 Ruby | 📅 2026-11-19 - A framework which contains some fuzzing capabilities via Auxiliary modules.
 
 [Nightmare](https://github.com/joxeankoret/nightmare) ⭐ 376 | 🐛 10 | 🌐 Python | 📅 2019-01-14 - A distributed fuzzing testing suite with web administration, supports fuzzing using network protocols.
 
@@ -356,7 +356,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [libFuzzer](http://llvm.org/docs/LibFuzzer.html) - In-process, coverage-guided, evolutionary fuzzing engine for targets written in C/C++.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,415 | 🐛 654 | 🌐 Go | 📅 2026-11-17 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,416 | 🐛 658 | 🌐 Go | 📅 2026-11-18 - Distributed, unsupervised, coverage-guided Linux syscall fuzzer.
 
 [ansvif](https://oxagast.github.io/ansvif/) - An advanced cross platform fuzzing framework designed to find vulnerabilities in C/C++ code.
 
@@ -366,7 +366,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 [FExM](https://github.com/fgsect/fexm) ⭐ 120 | 🐛 8 | 🌐 JavaScript | 📅 2023-02-02 - Automated Large-Scale Fuzzing Framework
 
-[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,272 | 🐛 53 | 🌐 Java | 📅 2026-11-17 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
+[Jazzer](https://github.com/CodeIntelligenceTesting/jazzer) ⭐ 1,273 | 🐛 53 | 🌐 Java | 📅 2026-11-18 - A coverage-guided, in-process fuzzer for the Java Virtual Machine based on libFuzzer.
 
 [cifuzz](https://github.com/CodeIntelligenceTesting/cifuzz) - A command line tool for executing coverage-guided fuzz tests in multiple languages and targets.
 
@@ -388,7 +388,7 @@ A curated list of fuzzing resources ( Books, courses - free and paid, videos, to
 
 ### Symbolic Execution SAT and SMT Solvers
 
-[Z3](https://github.com/Z3Prover/z3) ⭐ 12,949 | 🐛 54 | 🌐 C++ | 📅 2026-11-18 - A theorem prover from Microsoft Research.
+[Z3](https://github.com/Z3Prover/z3) ⭐ 12,953 | 🐛 73 | 🌐 C++ | 📅 2026-11-19 - A theorem prover from Microsoft Research.
 
 [SMT-LIB](http://smtlib.cs.uiowa.edu/) - An international initiative aimed at facilitating research and development in Satisfiability Modulo Theories (SMT)
 
@@ -419,7 +419,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [GDB - Gnu Debugger](http://www.sourceware.org/gdb/) - The favorite linux debugger.
 
-[PEDA](https://github.com/longld/peda) ⭐ 6,173 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
+[PEDA](https://github.com/longld/peda) ⭐ 6,172 | 🐛 76 | 🌐 Python | 📅 2024-07-29 - Python Exploit Development Assistance for GDB.
 
 [Radare2](http://www.radare.org/r/) - Framework for reverse-engineering and analyzing binaries.
 
@@ -431,7 +431,7 @@ I haven't included some of the legends like AxMan, please refer the following li
 
 [binnavi](https://github.com/google/binnavi) ⚠️ Archived - Binary analysis IDE, annotates control flow graphs and call graphs of disassembled code.
 
-[Capstone](https://github.com/aquynh/capstone) ⭐ 9,201 | 🐛 357 | 🌐 C | 📅 2026-11-17 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
+[Capstone](https://github.com/aquynh/capstone) ⭐ 9,204 | 🐛 358 | 🌐 C | 📅 2026-11-18 - Capstone is a lightweight multi-platform, multi-architecture disassembly framework.
 
 #### Others
 
@@ -448,13 +448,13 @@ PacketStorm - <https://packetstormsecurity.com/files/tags/exploit/>
 
 [Fuzzgoat](https://github.com/fuzzstati0n/fuzzgoat) ⭐ 212 | 🐛 3 | 🌐 C | 📅 2022-11-10 - Vulnerable C program for testing fuzzers.
 
-[vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,145 | 🐛 1 | 🌐 C | 📅 2020-10-09 - A vulnerable server for testing fuzzers.
+[vulnserver](https://github.com/stephenbradshaw/vulnserver) ⭐ 1,146 | 🐛 1 | 🌐 C | 📅 2020-10-09 - A vulnerable server for testing fuzzers.
 
 ##### Samples files for seeding during fuzzing:
 
 <https://files.fuzzing-project.org/>
 
-[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 54,156 | 🐛 467 | 🌐 JavaScript | 📅 2026-11-17
+[PDF Test Corpus from Mozilla](https://github.com/mozilla/pdf.js/tree/master/test/pdfs) ⭐ 54,160 | 🐛 468 | 🌐 JavaScript | 📅 2026-11-18
 
 [MS Office file format documentation](https://www.microsoft.com/en-us/download/details.aspx?id=14565)
 
@@ -486,4 +486,4 @@ Thanks to the following folks who made contributions to this project.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
