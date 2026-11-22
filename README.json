@@ -23,7 +23,7 @@
                     "open_issues": 11,
                     "owner": "RPISEC",
                     "repo": "MBE",
-                    "stars": 6109,
+                    "stars": 6108,
                     "topics": [
                       "ctf",
                       "exploitation",
@@ -351,7 +351,7 @@
                     "open_issues": 170,
                     "owner": "googleprojectzero",
                     "repo": "winafl",
-                    "stars": 2628,
+                    "stars": 2629,
                     "topics": [
                       "afl",
                       "fuzzing",
@@ -662,10 +662,10 @@
                     "language": "Ruby",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-20T20:32:46Z",
-                    "open_issues": 607,
+                    "open_issues": 608,
                     "owner": "rapid7",
                     "repo": "metasploit-framework",
-                    "stars": 39633,
+                    "stars": 39638,
                     "topics": [
                       "hacktoberfest"
                     ]
@@ -1015,7 +1015,7 @@
                     "language": "Go",
                     "license": "Apache-2.0",
                     "last_commit": "2026-11-20T18:18:30Z",
-                    "open_issues": 657,
+                    "open_issues": 658,
                     "owner": "google",
                     "repo": "syzkaller",
                     "stars": 6420,
@@ -1122,7 +1122,7 @@
                     "open_issues": 53,
                     "owner": "CodeIntelligenceTesting",
                     "repo": "jazzer",
-                    "stars": 1272,
+                    "stars": 1273,
                     "topics": [
                       "clojure",
                       "fuzzer",
@@ -1251,11 +1251,11 @@
                     "id": 32944298,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-21T02:49:06Z",
-                    "open_issues": 54,
+                    "last_commit": "2026-11-22T02:04:08Z",
+                    "open_issues": 49,
                     "owner": "Z3Prover",
                     "repo": "z3",
-                    "stars": 12969,
+                    "stars": 12976,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1357,11 +1357,11 @@
                         "id": 14735429,
                         "language": "C",
                         "license": null,
-                        "last_commit": "2026-11-20T17:53:10Z",
-                        "open_issues": 353,
+                        "last_commit": "2026-11-21T19:08:42Z",
+                        "open_issues": 352,
                         "owner": "capstone-engine",
                         "repo": "capstone",
-                        "stars": 9207,
+                        "stars": 9204,
                         "topics": [
                           "arm",
                           "arm64",
@@ -1460,11 +1460,11 @@
                     "id": 1663468,
                     "language": "JavaScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-20T18:30:45Z",
-                    "open_issues": 466,
+                    "last_commit": "2026-11-21T20:07:38Z",
+                    "open_issues": 463,
                     "owner": "mozilla",
                     "repo": "pdf.js",
-                    "stars": 54163,
+                    "stars": 54169,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T06:15:12.081Z"
@@ -1568,7 +1568,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:15:20.361Z",
+    "last_updated": "2026-11-22T02:18:20.299Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of fuzzing resources ( Books, courses - free and paid, videos, tools, tutorials and vulnerable applications to practice on ) for learning Fuzzing and initial phases of Exploit Development like root cause analysis.",
